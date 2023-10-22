@@ -10,8 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  color:
-    path: ../color
+  toast:
+    git:
+      url: https://github.com/Ingenieur225/flutter_config.git
+      ref: main
+      path: toast
 
 dev_dependencies:
   flutter_test:
