@@ -16,7 +16,7 @@ class PrimaryText extends StatelessWidget {
     Key? key,
     required this.text,
     this.fontWeight = FontWeight.bold,
-    this.color = AppColors.red,
+    this.color = AppColors.black,
     this.size = 15,
     this.height = 1.3,
     this.line = 6,
