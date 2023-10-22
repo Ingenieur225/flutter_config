@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   color:
-    path: ../color
+    path: ./color
 
 dev_dependencies:
   flutter_test:
